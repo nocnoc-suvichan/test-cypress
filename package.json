@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/nocnoc-suvichan/test-cypress#readme",
   "devDependencies": {
-    "cypress": "^10.8.0"
+    "cypress": "^10.8.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.5.0"
   }
 }
