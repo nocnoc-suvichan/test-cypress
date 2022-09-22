@@ -1,0 +1,22 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nocnoc-suvichan/test-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nocnoc-suvichan/test-cypress/issues"
+  },
+  "homepage": "https://github.com/nocnoc-suvichan/test-cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
